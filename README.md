@@ -1,4 +1,6 @@
 ### Patrick TAMBWE 
+
+![image du profil] (image.
 ---
 #### Présentation
 Doté d'une grande expérience dans la gestion de flux entrants et sortants de marchandises et le contrôle informatique et physique des marchandises réceptionnées.
@@ -40,7 +42,7 @@ Capacité à accueillir à gérer les situations d'urgences et critiques.
 - Cinéma
 
  
- ![photo-profl] (https://github.com/PatrickTmb/desktop-tutorial/blob/main/Photo_Profil.jpg)
+ ![photo-profl] (https://github.com/PatrickTmb/Photo.git)
 
  [site Markdown Guide] (https://www.markdownguide.org/)  
 
