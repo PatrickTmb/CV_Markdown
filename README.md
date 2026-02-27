@@ -1,6 +1,6 @@
 ### Patrick TAMBWE 
 
-![image du profil] (https://github.com/PatrickTmb/Photo.git)
+![Photo](./Photo_Profil.jpg)
 ---
 #### Présentation
 Doté d'une grande expérience dans la gestion de flux entrants et sortants de marchandises et le contrôle informatique et physique des marchandises réceptionnées.
